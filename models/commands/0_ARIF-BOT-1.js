@@ -24,7 +24,7 @@ module.exports.config = {
 protectCredits(module.exports.config);
 
 // 🔑 OPENROUTER API KEY
-const OPENROUTER_API_KEY = "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";
+const OPENROUTER_API_KEY = "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";
 
 // 🧠 GEMINI-STYLE SYSTEM PROMPT (MULTI-LANGUAGE)
 const systemPrompt =
